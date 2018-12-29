@@ -7,10 +7,6 @@
     <channel update="i" site="bein.net" site_id="mena_sports/HD2" xmltv_id="HD2">HD2</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD3" xmltv_id="HD3">HD3</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD4" xmltv_id="HD4">HD4</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD5" xmltv_id="HD5">HD5</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD6" xmltv_id="HD6">HD6</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD7" xmltv_id="HD7">HD7</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD8" xmltv_id="HD8">HD8</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD9" xmltv_id="HD9">HD9</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD10" xmltv_id="HD10">HD10</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD11" xmltv_id="SportsHD11">SportsHD11</channel>
@@ -90,6 +86,9 @@
     <channel update="i" site="bein.net" site_id="us_sports/BS6" xmltv_id="BS6">BS6</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS7" xmltv_id="BS7">BS7</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS8" xmltv_id="BS8">BS8</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="BS2">BS2</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS3" xmltv_id="BS3">BS3</channel>
