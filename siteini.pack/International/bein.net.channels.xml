@@ -6,7 +6,6 @@
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD2" xmltv_id="HD2">HD2</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD3" xmltv_id="HD3">HD3</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD4" xmltv_id="HD4">HD4</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD5" xmltv_id="HD5">HD5</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD6" xmltv_id="HD6">HD6</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD7" xmltv_id="HD7">HD7</channel>

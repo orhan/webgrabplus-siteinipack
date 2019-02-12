@@ -6,7 +6,6 @@
     <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
     <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>
     <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
-    <channel update="i" site="osn.com" site_id="POP" xmltv_id="Paw Patrol with OSN">Paw Patrol with OSN</channel>
     <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
     <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
     <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel>
@@ -17,7 +16,6 @@
     <channel update="i" site="osn.com" site_id="BO2" xmltv_id="OSN Movies Box Office 2">OSN Movies Box Office 2</channel>
     <channel update="i" site="osn.com" site_id="BO3" xmltv_id="OSN Movies Box Office 3">OSN Movies Box Office 3</channel>
     <channel update="i" site="osn.com" site_id="PAR" xmltv_id="Paramount">Paramount</channel>
-    <channel update="i" site="osn.com" site_id="SUN" xmltv_id="Sundance TV">Sundance TV</channel>
     <channel update="i" site="osn.com" site_id="STM" xmltv_id="Star Movies HD">Star Movies HD</channel>
     <channel update="i" site="osn.com" site_id="SEM" xmltv_id="SET Max">SET Max</channel>
     <channel update="i" site="osn.com" site_id="STG" xmltv_id="Star Gold">Star Gold</channel>
@@ -118,7 +116,7 @@
     <channel update="i" site="osn.com" site_id="CT9" xmltv_id="CGTN">CGTN</channel>
     <channel update="i" site="osn.com" site_id="FRE" xmltv_id="France 24 English">France 24 English</channel>
     <channel update="i" site="osn.com" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
-    <channel update="i" site="osn.com" site_id="MAD" xmltv_id="Madani TV">Madani TV</channel>
+    <channel update="i" site="osn.com" site_id="MDN" xmltv_id="Madani TV">Madani TV</channel>
     <channel update="i" site="osn.com" site_id="DUN" xmltv_id="Dunya News">Dunya News</channel>
     <channel update="i" site="osn.com" site_id="AYN" xmltv_id="ARY News">ARY News</channel>
     <channel update="i" site="osn.com" site_id="GON" xmltv_id="Geo News">Geo News</channel>
@@ -130,9 +128,14 @@
     <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel>
     <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
     <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+    <channel update="i" site="osn.com" site_id="MMK" xmltv_id="AlMamlaka TV">AlMamlaka TV</channel>
     <channel update="i" site="osn.com" site_id="RUS" xmltv_id="Rusiya Al Yawm">Rusiya Al Yawm</channel>
+    <channel update="i" site="osn.com" site_id="ALH" xmltv_id="AL Hurra HD">AL Hurra HD</channel>
+    <channel update="i" site="osn.com" site_id="ALQ" xmltv_id="AL Hurra Iraq HD">AL Hurra Iraq HD</channel>
+    <channel update="i" site="osn.com" site_id="BBA" xmltv_id="BBC Arabic">BBC Arabic</channel>
     <channel update="i" site="osn.com" site_id="FRA" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="osn.com" site_id="CTA" xmltv_id="CGTN Arabic">CGTN Arabic</channel>
+    <channel update="i" site="osn.com" site_id="CAR" xmltv_id="CNBC Arabia">CNBC Arabia</channel>
     <channel update="i" site="osn.com" site_id="DSC" xmltv_id="Discovery HD">Discovery HD</channel>
     <channel update="i" site="osn.com" site_id="DCF" xmltv_id="Discovery Family HD">Discovery Family HD</channel>
     <channel update="i" site="osn.com" site_id="SCI" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
@@ -152,7 +155,6 @@
     <channel update="i" site="osn.com" site_id="WWE" xmltv_id="OSN WWE Network HD">OSN WWE Network HD</channel>
     <channel update="i" site="osn.com" site_id="CRI" xmltv_id="OSN Sports Cricket HD">OSN Sports Cricket HD</channel>
     <channel update="i" site="osn.com" site_id="TCR" xmltv_id="Ten Cricket International">Ten Cricket International</channel>
-    <channel update="i" site="osn.com" site_id="FUE" xmltv_id="Fuel TV">Fuel TV</channel>
     <channel update="i" site="osn.com" site_id="GNX" xmltv_id="Ginx Esports TV HD">Ginx Esports TV HD</channel>
     <channel update="i" site="osn.com" site_id="AD3" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
     <channel update="i" site="osn.com" site_id="AD4" xmltv_id="AD Sports 4 HD">AD Sports 4 HD</channel>
@@ -169,7 +171,5 @@
     <channel update="i" site="osn.com" site_id="BRO" xmltv_id="ABS-CBN Sports+Action">ABS-CBN Sports+Action</channel>
     <channel update="i" site="osn.com" site_id="COG" xmltv_id="Cinema One Global">Cinema One Global</channel>
     <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
-    <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
-    <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
   </channels>
 </site>
