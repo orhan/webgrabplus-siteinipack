@@ -285,7 +285,7 @@
     <channel update="i" site="horizon.tv" site_id="CH/deu_27909159444__https://wp15-images-ch-dynamic.horizon.tv/channellogos/02/eurosport_1_hd.png" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel update="i" site="horizon.tv" site_id="CH/deu_581742118974__https://wp11-images-ch-dynamic.horizon.tv/channellogos/02/eurosport_2_hd.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
     <channel update="i" site="horizon.tv" site_id="CH/deu_789470759398__https://wp28-images-ch-dynamic.horizon.tv/channellogos/02/sport_1_plus_hd.png" xmltv_id="SPORT1 HD">SPORT1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CH/deu_122150439046__https://wp8-images-ch-dynamic.horizon.tv/channellogos/02/sport_1_us_hd.png" xmltv_id="SPORT1 US HD">SPORT1 US HD</channel>
+    <channel update="i" site="horizon.tv" site_id="CH/deu_145416231118__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/eSports_1.png" xmltv_id="eSports1">eSports1</channel>
     <channel update="i" site="horizon.tv" site_id="CH/deu_789470759403__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/sportdigital_hd1.png" xmltv_id="sportdigital HD">sportdigital HD</channel>
     <channel update="i" site="horizon.tv" site_id="CH/deu_789431335047__https://wp20-images-ch-dynamic.horizon.tv/channellogos/02/motorvision_tv_hd.png" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
     <channel update="i" site="horizon.tv" site_id="CH/deu_714527783419__https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/motors_tv_hd.png" xmltv_id="motorsporttv HD">motorsporttv HD</channel>
@@ -947,7 +947,8 @@
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503125__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/super_rtl_hd_1.png" xmltv_id="Super RTL HD">Super RTL HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_706497063099__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/kika_hd.png" xmltv_id="Kika HD">Kika HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_342736423082__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_hd.png" xmltv_id="Nick HD">Nick HD</channel>
-    <channel update="i" site="horizon.tv" site_id="DE/deu_616654375081__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_hd_v2.png" xmltv_id="ZDF neo HD">ZDF neo HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_616654375081__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_hd_v2.png" xmltv_id="ZDF neo HD">ZDF Neo HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_844304935317__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/zdfinfo_hd_1.png" xmltv_id="ZDF Info HD">ZDF Info HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_342570535339__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/nitro_hd.png" xmltv_id="RTL Nitro HD">RTL Nitro HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_720012839067__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/sat_1_gold_hd.png" xmltv_id="Sat1 Gold HD">Sat1 Gold HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_713302567357__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/tele5_hd.png" xmltv_id="Tele 5 HD">Tele 5 HD</channel>
@@ -976,7 +977,8 @@
     <channel update="i" site="horizon.tv" site_id="DE/deu_834825255152__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 1">Eurosport360 HD 1</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_834825767110__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 2">Eurosport360 HD 2</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_834825255154__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 3">Eurosport360 HD 3</channel>
-    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502981__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_plus_hd.png" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502967__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_hd_1.png" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502981__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_plus_hd.png" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503142__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/automotor_sport_hd.png" xmltv_id="Auto Motor und Sport TV HD">Auto Motor und Sport TV HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_817724967005__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/sportdigital_hd_1.png" xmltv_id="sportdigital HD">sportdigital HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_817724967007__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/mvtv_hd_1.png" xmltv_id="MOTORVISION TV HD">MOTORVISION TV HD</channel>
@@ -1072,7 +1074,7 @@
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503064__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/nicktoons.png" xmltv_id="Nick Toons">Nick Toons</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503063__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/boomerang_1.png" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503132__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_jr.png" xmltv_id="Nick Junior">Nick Junior</channel>
-    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503129__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/fix_and_foxi.png" xmltv_id="yourfamilyentertainment">yourfamilyentertainment</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503129__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/fix_and_foxi.png" xmltv_id="Fix und Foxi">Fix und Foxi</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503149__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/baby_tv.png" xmltv_id="BABYTV">BABYTV</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503117__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_v2.png" xmltv_id="ZDF neo">ZDF neo</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503118__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/nitro.png" xmltv_id="RTL Nitro">RTL Nitro</channel>
@@ -1102,7 +1104,7 @@
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503056__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_comedy.png" xmltv_id="TNT Comedy">TNT Comedy</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_616178215133__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/sony_channel.png" xmltv_id="Sony TV">Sony TV</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_427555366993__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_passion_1.png" xmltv_id="RTL Passion">RTL Passion</channel>
-    <channel update="i" site="horizon.tv" site_id="DE/deu_342736423083__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/ginx_1.png" xmltv_id="Poker Channel">Poker Channel</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342736423083__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/ginx_1.png" xmltv_id="Ginx">Ginx</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438502968__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_1.png" xmltv_id="Sport1">Sport1</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29609511127__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_1.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438502965__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_news_v2.png" xmltv_id="Sky Sports News">Sky Sports News</channel>
@@ -1225,7 +1227,7 @@
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438502977__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_plus24.png" xmltv_id="Sky Cinema24">Sky Cinema24</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438502959__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/Sky_Cinema_SpiderMan.png" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438502991__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_action_v2.png" xmltv_id="Sky Action">Sky Action</channel>
-    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015393__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_family1.png" xmltv_id="407">407</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015393__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_family2.png" xmltv_id="SKY Cinema Family HD">Sky Cinema Family HD</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503104__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_comedy.png" xmltv_id="Sky Comedy">Sky Comedy</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_29438503179__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_emotion.png" xmltv_id="Sky Emotion">Sky Emotion</channel>
     <channel update="i" site="horizon.tv" site_id="DE/deu_561410599035__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_nostalgie.png" xmltv_id="Sky_Nostalgie">Sky_Nostalgie</channel>
