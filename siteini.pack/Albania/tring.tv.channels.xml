@@ -1,63 +1,63 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.25 -- Jan van Straaten" site="tring.tv">
   <channels>
-    <channel update="i" site="tring.tv" site_id="0423400" xmltv_id="Vizion Plus">Vizion Plus</channel>
-    <channel update="i" site="tring.tv" site_id="0423401" xmltv_id="Jolly HD">Jolly HD</channel>
-    <channel update="i" site="tring.tv" site_id="0423402" xmltv_id="Living HD">Living HD</channel>
-    <channel update="i" site="tring.tv" site_id="0423403" xmltv_id="Tring International">Tring International</channel>
-    <channel update="i" site="tring.tv" site_id="0423404" xmltv_id="Click TV">Click TV</channel>
-    <channel update="i" site="tring.tv" site_id="0423405" xmltv_id="Smile">Smile</channel>
-    <channel update="i" site="tring.tv" site_id="0423406" xmltv_id="Muse">Muse</channel>
-    <channel update="i" site="tring.tv" site_id="0423407" xmltv_id="Kanali 7">Kanali 7</channel>
-    <channel update="i" site="tring.tv" site_id="0423408" xmltv_id="Mediaset">Mediaset</channel>
-    <channel update="i" site="tring.tv" site_id="0423409" xmltv_id="Tema TV ">Tema TV</channel>
-    <channel update="i" site="tring.tv" site_id="04234010" xmltv_id="Ora News">Ora News</channel>
-    <channel update="i" site="tring.tv" site_id="04234011" xmltv_id="3 Plus">3 Plus</channel>
-    <channel update="i" site="tring.tv" site_id="04234012" xmltv_id="Tring Shqip">Tring Shqip</channel>
-    <channel update="i" site="tring.tv" site_id="04234013" xmltv_id="Tring Tring">Tring Tring</channel>
-    <channel update="i" site="tring.tv" site_id="04234014" xmltv_id="Tring Kids">Tring Kids</channel>
-    <channel update="i" site="tring.tv" site_id="04234015" xmltv_id="Tip TV">Tip TV</channel>
-    <channel update="i" site="tring.tv" site_id="04234016" xmltv_id="Tring Super HD">Tring Super HD</channel>
-    <channel update="i" site="tring.tv" site_id="04234017" xmltv_id="Tring Action">Tring Action</channel>
-    <channel update="i" site="tring.tv" site_id="04234018" xmltv_id="Tring Life">Tring Life</channel>
-    <channel update="i" site="tring.tv" site_id="04234019" xmltv_id="Tring Comedy">Tring Comedy</channel>
-    <channel update="i" site="tring.tv" site_id="04234020" xmltv_id="Tring Fantasy">Tring Fantasy</channel>
-    <channel update="i" site="tring.tv" site_id="04234021" xmltv_id="Fox Life">Fox Life</channel>
-    <channel update="i" site="tring.tv" site_id="04234022" xmltv_id="Fox Crime">Fox Crime</channel>
-    <channel update="i" site="tring.tv" site_id="04234023" xmltv_id="Fox">Fox</channel>
-    <channel update="i" site="tring.tv" site_id="04234024" xmltv_id="Tring History">Tring History</channel>
-    <channel update="i" site="tring.tv" site_id="04234025" xmltv_id="Tring World">Tring World</channel>
-    <channel update="i" site="tring.tv" site_id="04234026" xmltv_id="Tring Planet">Tring Planet</channel>
-    <channel update="i" site="tring.tv" site_id="04234027" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="tring.tv" site_id="04234028" xmltv_id="KTV">KTV</channel>
-    <channel update="i" site="tring.tv" site_id="04234029" xmltv_id="RTV 21">RTV 21</channel>
-    <channel update="i" site="tring.tv" site_id="04234030" xmltv_id="RTV 21 Plus">RTV 21 Plus</channel>
-    <channel update="i" site="tring.tv" site_id="04234031" xmltv_id="RTV 21 Junior">RTV 21 Junior</channel>
-    <channel update="i" site="tring.tv" site_id="04234032" xmltv_id="RTV 21 Popullore">RTV 21 Popullore</channel>
-    <channel update="i" site="tring.tv" site_id="04234033" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="tring.tv" site_id="04234034" xmltv_id="BBC WORLD">BBC World</channel>
-    <channel update="i" site="tring.tv" site_id="04234035" xmltv_id="BBF">BBF</channel>
-    <channel update="i" site="tring.tv" site_id="04234036" xmltv_id="Folk +">Folk +</channel>
-    <channel update="i" site="tring.tv" site_id="04234037" xmltv_id="Antenna Europe">Antenna Europe</channel>
-    <channel update="i" site="tring.tv" site_id="04234038" xmltv_id="Canale 5">Canale 5</channel>
-    <channel update="i" site="tring.tv" site_id="04234039" xmltv_id="Italia 1">Italia 1</channel>
-    <channel update="i" site="tring.tv" site_id="04234040" xmltv_id="Telesport">Telesport</channel>
-    <channel update="i" site="tring.tv" site_id="04234041" xmltv_id="Tring Sport News HD">Tring Sport News HD</channel>
-    <channel update="i" site="tring.tv" site_id="04234042" xmltv_id="Tring Sport 1 HD">Tring Sport 1 HD</channel>
-    <channel update="i" site="tring.tv" site_id="04234043" xmltv_id="Tring Sport 2 HD">Tring Sport 2 HD</channel>
-    <channel update="i" site="tring.tv" site_id="04234044" xmltv_id="Tring Sport 3 HD">Tring Sport 3 HD</channel>
-    <channel update="i" site="tring.tv" site_id="04234045" xmltv_id="Tring Sport 4 HD">Tring Sport 4 HD</channel>
-    <channel update="i" site="tring.tv" site_id="04234046" xmltv_id="News 24">News 24</channel>
-    <channel update="i" site="tring.tv" site_id="04234047" xmltv_id="TV Avrupa">TV Avrupa</channel>
-    <channel update="i" site="tring.tv" site_id="04234048" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="tring.tv" site_id="04234049" xmltv_id="Desire">DESIRE</channel>
-    <channel update="i" site="tring.tv" site_id="04234050" xmltv_id="Bizarre">Bizarre</channel>
-    <channel update="i" site="tring.tv" site_id="04234051" xmltv_id="Bunga Bunga">Bunga Bunga</channel>
-    <channel update="i" site="tring.tv" site_id="04234052" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="tring.tv" site_id="04234053" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="tring.tv" site_id="04234054" xmltv_id="Motors TV">Motors TV</channel>
-    <channel update="i" site="tring.tv" site_id="04234055" xmltv_id="Eurochannel">Eurochannel</channel>
-    <channel update="i" site="tring.tv" site_id="04234056" xmltv_id="LUXE TV">LUXE TV</channel>
-    <channel update="i" site="tring.tv" site_id="04234057" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tring.tv" site_id="0" xmltv_id="Vizion Plus">Vizion Plus</channel>
+    <channel update="i" site="tring.tv" site_id="1" xmltv_id="Jolly HD">Jolly HD</channel>
+    <channel update="i" site="tring.tv" site_id="2" xmltv_id="Living HD">Living HD</channel>
+    <channel update="i" site="tring.tv" site_id="3" xmltv_id="Tring International">Tring International</channel>
+    <channel update="i" site="tring.tv" site_id="4" xmltv_id="Click TV">Click TV</channel>
+    <channel update="i" site="tring.tv" site_id="5" xmltv_id="Smile">Smile</channel>
+    <channel update="i" site="tring.tv" site_id="6" xmltv_id="Muse">Muse</channel>
+    <channel update="i" site="tring.tv" site_id="7" xmltv_id="Kanali 7">Kanali 7</channel>
+    <channel update="i" site="tring.tv" site_id="8" xmltv_id="Mediaset">Mediaset</channel>
+    <channel update="i" site="tring.tv" site_id="9" xmltv_id="Tema TV ">Tema TV</channel>
+    <channel update="i" site="tring.tv" site_id="10" xmltv_id="Ora News">Ora News</channel>
+    <channel update="i" site="tring.tv" site_id="11" xmltv_id="3 Plus">3 Plus</channel>
+    <channel update="i" site="tring.tv" site_id="12" xmltv_id="Tring Shqip">Tring Shqip</channel>
+    <channel update="i" site="tring.tv" site_id="13" xmltv_id="Tring Tring">Tring Tring</channel>
+    <channel update="i" site="tring.tv" site_id="14" xmltv_id="Tring Kids">Tring Kids</channel>
+    <channel update="i" site="tring.tv" site_id="15" xmltv_id="Tip TV">Tip TV</channel>
+    <channel update="i" site="tring.tv" site_id="16" xmltv_id="Tring Super HD">Tring Super HD</channel>
+    <channel update="i" site="tring.tv" site_id="17" xmltv_id="Tring Action">Tring Action</channel>
+    <channel update="i" site="tring.tv" site_id="18" xmltv_id="Tring Life">Tring Life</channel>
+    <channel update="i" site="tring.tv" site_id="19" xmltv_id="Tring Comedy">Tring Comedy</channel>
+    <channel update="i" site="tring.tv" site_id="20" xmltv_id="Tring Fantasy">Tring Fantasy</channel>
+    <channel update="i" site="tring.tv" site_id="21" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="tring.tv" site_id="22" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel update="i" site="tring.tv" site_id="23" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="tring.tv" site_id="24" xmltv_id="Tring History">Tring History</channel>
+    <channel update="i" site="tring.tv" site_id="25" xmltv_id="Tring World">Tring World</channel>
+    <channel update="i" site="tring.tv" site_id="26" xmltv_id="Tring Planet">Tring Planet</channel>
+    <channel update="i" site="tring.tv" site_id="27" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tring.tv" site_id="28" xmltv_id="KTV">KTV</channel>
+    <channel update="i" site="tring.tv" site_id="29" xmltv_id="RTV 21">RTV 21</channel>
+    <channel update="i" site="tring.tv" site_id="30" xmltv_id="RTV 21 Plus">RTV 21 Plus</channel>
+    <channel update="i" site="tring.tv" site_id="31" xmltv_id="RTV 21 Junior">RTV 21 Junior</channel>
+    <channel update="i" site="tring.tv" site_id="32" xmltv_id="RTV 21 Popullore">RTV 21 Popullore</channel>
+    <channel update="i" site="tring.tv" site_id="33" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tring.tv" site_id="34" xmltv_id="BBC WORLD">BBC World</channel>
+    <channel update="i" site="tring.tv" site_id="35" xmltv_id="BBF">BBF</channel>
+    <channel update="i" site="tring.tv" site_id="36" xmltv_id="Folk +">Folk +</channel>
+    <channel update="i" site="tring.tv" site_id="37" xmltv_id="Antenna Europe">Antenna Europe</channel>
+    <channel update="i" site="tring.tv" site_id="38" xmltv_id="Canale 5">Canale 5</channel>
+    <channel update="i" site="tring.tv" site_id="39" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="tring.tv" site_id="40" xmltv_id="Telesport">Telesport</channel>
+    <channel update="i" site="tring.tv" site_id="41" xmltv_id="Tring Sport News HD">Tring Sport News HD</channel>
+    <channel update="i" site="tring.tv" site_id="42" xmltv_id="Tring Sport 1 HD">Tring Sport 1 HD</channel>
+    <channel update="i" site="tring.tv" site_id="43" xmltv_id="Tring Sport 2 HD">Tring Sport 2 HD</channel>
+    <channel update="i" site="tring.tv" site_id="44" xmltv_id="Tring Sport 3 HD">Tring Sport 3 HD</channel>
+    <channel update="i" site="tring.tv" site_id="45" xmltv_id="Tring Sport 4 HD">Tring Sport 4 HD</channel>
+    <channel update="i" site="tring.tv" site_id="46" xmltv_id="News 24">News 24</channel>
+    <channel update="i" site="tring.tv" site_id="47" xmltv_id="TV Avrupa">TV Avrupa</channel>
+    <channel update="i" site="tring.tv" site_id="48" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tring.tv" site_id="49" xmltv_id="Desire">DESIRE</channel>
+    <channel update="i" site="tring.tv" site_id="50" xmltv_id="Bizarre">Bizarre</channel>
+    <channel update="i" site="tring.tv" site_id="51" xmltv_id="Bunga Bunga">Bunga Bunga</channel>
+    <channel update="i" site="tring.tv" site_id="52" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="tring.tv" site_id="53" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tring.tv" site_id="54" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="tring.tv" site_id="55" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="tring.tv" site_id="56" xmltv_id="LUXE TV">LUXE TV</channel>
+    <channel update="i" site="tring.tv" site_id="57" xmltv_id="Euronews">Euronews</channel>
   </channels>
 </site>
