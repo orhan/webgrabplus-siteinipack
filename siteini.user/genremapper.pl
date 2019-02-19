@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w 
 
 ## Horizon.tv.ini genre Mapper ##
-## Revision 2 ##
+## Revision 3 ##
 ## DeBaschdi ##
 ## takealug.de ##
 
@@ -158,7 +158,7 @@ my %REPLACE=(
  "Erotik/Serie-Erotik" => $XXX ,              
 
  "Nachrichten"  => $NEWS ,                        
- "Nachrichten/Info/Sonstige" => $NONE ,
+ "Nachrichten/Info/Sonstige" => $NEWS ,
  "Nachrichten/Info/Politik" => $NEWS ,
  "Nachrichten/Info/Finanzen" => $NEWS ,
  "Wetter"  => $WEATHER ,          
@@ -196,13 +196,13 @@ my %REPLACE=(
   "Unterhaltung/Talkshow"  => $TALKSHOW ,         
 
  "Sport"  => $SPORT ,            
- "Snooker"  => $TENNIS ,          
+ "Snooker"  => Billard ,          
  "Langlauf"  => $TENNIS ,          
  "Autosport"  => $SPORT ,            
  "Sport/Golf"  => $SPORT ,            
  "Radsport"  => $SPORT ,            
  "Sport/Radsport"  => $SPORT ,            
- "Sport/Sonstige"  => $NONE ,            
+ "Sport/Sonstige"  => $SPORT ,            
  "Extremsport" => $SPORT ,            
  "Special Event"  => $SPORT_SPECIAL ,    
   "Sport/Besondere Ereignisse"  => $SPORT_SPECIAL ,    
@@ -211,8 +211,8 @@ my %REPLACE=(
  "Fußball"  => $FOOTBALL ,         
  "Fussball"  => $FOOTBALL ,         
  "Sport/Fußball"  => $FOOTBALL ,         
- "Squash"  => $FOOTBALL ,         
- "Sport/Squash"  => $FOOTBALL ,         
+ "Squash"  => $TENNIS ,         
+ "Sport/Squash"  => $TENNIS ,         
  "Tennis"  => $TENNIS ,           
  "Tischtennis"  => $TENNIS ,           
  "Sport/Tennis"  => $TENNIS ,           
