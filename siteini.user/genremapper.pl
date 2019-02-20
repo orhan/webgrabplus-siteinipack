@@ -98,6 +98,9 @@ my %REPLACE=(
 
 ###AB Hier werden die Grabber Genre/category nach unseren definierten EIT Genre gemappt###
 
+ "Berühmte Leute" => $VIP ,                                                                                                                 
+ "Populäre Kunst" => $VIP ,                                                                                                                 
+ "Komödie" => $COMEDY , 
  "Movie"  => $MOVIE ,            
  "Spielfilm"  => $MOVIE ,
  "Familienfilm" => $MOVIE ,
