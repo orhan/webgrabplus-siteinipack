@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w 
 
 ## Horizon.tv.ini genre Mapper ##
-## Revision 3 ##
+## Revision 4 ##
 ## DeBaschdi ##
 ## takealug.de ##
 
@@ -109,6 +109,7 @@ my %REPLACE=(
  "Spielfilm/Drama"  => $MOVIE ,            
  "Melodrama"  => $MOVIE, 
  "Melodram"  => $MOVIE,
+ "Sportfilm"  => $MOVIE,
  "Thriller"  => $THRILLER ,         
  "Agentenfilmparodie" => $THRILLER ,
  "Spielfilm/Thriller"  => $THRILLER ,        
@@ -134,13 +135,17 @@ my %REPLACE=(
  "Spielfilm/Horror"  => $SF ,               
  "Spielfilm/Fantasy"  => $SF ,              
  "Fantasyfilm" => $SF ,
+ "Science-Fiction-Action" => $SF ,
  "Komödie"  => $COMEDY ,           
  "Teenagerkomödie" => $COMEDY ,
  "Fantasykomödie" => $COMEDY ,
  "Familienkomödie" => $COMEDY ,
+ "Tragikomödie" => $COMEDY ,
  "Spielfilm/Comedy"  => $COMEDY ,           
  "Serie/Comedy"  => $COMEDY ,           
- "Unterhaltung/Comedy" => $COMEDY ,           
+ "Unterhaltung/Comedy" => $COMEDY , 
+ "Weihnachtskomödie" => $COMEDY ,
+ "Actionkomödie" => $COMEDY ,
  "Drama (serie)"  => $SOAP ,             
  "Serie/Drama"  => $SOAP , 
  "Series Drama" => $SOAP ,
@@ -165,7 +170,8 @@ my %REPLACE=(
  "Nachrichten/Info/Wetter" => $WEATHER ,          
  "Info"  => $NEWS_MAGAZINE ,    
  "Nachrichten/Info/Magazin"  => $NEWS_MAGAZINE ,   
- "Dokumentation" => $DOCUMENTARY ,      
+ "Dokumentation" => $DOCUMENTARY ,
+ "Literaturverfilmung" => $DOCUMENTARY ,
  "Dokufilm" => $DOCUMENTARY ,      
   "Dokumentarfilm" => $DOCUMENTARY ,      
  "Dokureihe" => $DOCUMENTARY ,      
@@ -197,7 +203,7 @@ my %REPLACE=(
 
  "Sport"  => $SPORT ,            
  "Snooker"  => Billard ,          
- "Langlauf"  => $TENNIS ,          
+ "Langlauf"  => $Winter_Sports ,          
  "Autosport"  => $SPORT ,            
  "Sport/Golf"  => $SPORT ,            
  "Radsport"  => $SPORT ,            
@@ -232,6 +238,7 @@ my %REPLACE=(
  "Skispringen" => $Winter_Sports ,
  "Ski alpin" => $Winter_Sports ,
  "Skiakrobatik"  => $Winter_Sports ,
+ "Nordische Kombination" => $Winter_Sports ,
  "Reitsport"    => $EQU ,  
  "Sport/Reiten"    => $EQU ,
  "Kampfsport" => $MARTIAL ,
@@ -247,14 +254,18 @@ my %REPLACE=(
  "Märchenfilm" => $KIDS ,
  "Kinder/Jugend/Serien" => $KIDS ,             
   "Kinderabenteuer" => $KIDS ,             
- "Kinder/Jugend/Show" => $KIDS ,             
+ "Kinder/Jugend/Show" => $KIDS ,
+ "Kinderkomödie" => $KIDS ,
+ "Kinderkrimi" => $KIDS ,
  "Kinder, 0 6"  => $KIDS_0_5 ,         
+ "Kids, 0 6" => $KIDS_0_5 ,
  "Kinder, 6 14"  => $KIDS_6_14 ,        
  "Kinder, 10 16"  => $KIDS_10_16 ,
  "Kids, 10 16" => $KIDS_10_16 ,
- "Kids, 6 14"  => $KIDS_10_16 ,
+ "Kids, 6 14"  => $KIDS_6_14 ,
  "Zeichentrick"  => $CARTOON ,         
  "Zeichentrickserie"  => $CARTOON ,
+ "Zeichentrickfilm"  => $CARTOON ,
  "Animationsfilm" => $CARTOON ,
  "Trickfilm" => $CARTOON ,
  "Spielfilm/Zeichentrick" => $CARTOON ,          
