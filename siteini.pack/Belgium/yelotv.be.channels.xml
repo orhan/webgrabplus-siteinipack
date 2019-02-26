@@ -53,7 +53,7 @@
     <channel update="i" site="yelotv.be" site_id="104" xmltv_id="LCI">LCI</channel>
     <channel update="i" site="yelotv.be" site_id="105" xmltv_id="TV Breizh">TV Breizh</channel>
     <channel update="i" site="yelotv.be" site_id="107" xmltv_id="AB4">AB4</channel>
-    <channel update="i" site="yelotv.be" site_id="108" xmltv_id="Arte Belgique">Arte Belgique</channel>
+    <channel update="i" site="yelotv.be" site_id="108" xmltv_id="arte Belgique">arte Belgique</channel>
     <channel update="i" site="yelotv.be" site_id="109" xmltv_id="Canal Z">Canal Z</channel>
     <channel update="i" site="yelotv.be" site_id="112" xmltv_id="RTPi">RTPi</channel>
     <channel update="i" site="yelotv.be" site_id="113" xmltv_id="TRT">TRT</channel>
