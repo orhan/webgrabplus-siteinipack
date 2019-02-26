@@ -4,14 +4,14 @@
     <channel update="i" site="mojtv.hr" site_id="525/mrt1" xmltv_id="MRT1">MRT1</channel>
     <channel update="i" site="mojtv.hr" site_id="526/mrt2" xmltv_id="MRT2">MRT2</channel>
     <channel update="i" site="mojtv.hr" site_id="527/sobraniski-kanal" xmltv_id="Sobraniski Kanal">Sobraniski Kanal</channel>
-    <channel update="i" site="mojtv.hr" site_id="1/htv1" xmltv_id="HTV1">HTV1</channel>
-    <channel update="i" site="mojtv.hr" site_id="2/htv2" xmltv_id="HTV2">HTV2</channel>
-    <channel update="i" site="mojtv.hr" site_id="310/htv3" xmltv_id="HTV3">HTV3</channel>
+    <channel update="i" site="mojtv.hr" site_id="1/htv1" xmltv_id="HTV1">HRT 1 || HTV 1</channel>
+    <channel update="i" site="mojtv.hr" site_id="2/htv2" xmltv_id="HTV2">HRT 2 || HTV 2</channel>
+    <channel update="i" site="mojtv.hr" site_id="310/htv3" xmltv_id="HTV3">HRT 3 || HTV3</channel>
     <channel update="i" site="mojtv.hr" site_id="3/nova-tv" xmltv_id="NOVA TV">NOVA TV</channel>
     <channel update="i" site="mojtv.hr" site_id="4/rtl" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="mojtv.hr" site_id="185/doma-tv" xmltv_id="Doma TV">Doma TV</channel>
     <channel update="i" site="mojtv.hr" site_id="186/rtl2" xmltv_id="RTL2">RTL2</channel>
-    <channel update="i" site="mojtv.hr" site_id="341/htv-4" xmltv_id="HTV 4">HTV 4</channel>
+    <channel update="i" site="mojtv.hr" site_id="341/htv-4" xmltv_id="HTV 4">HRT 4 || HTV 4</channel>
     <channel update="i" site="mojtv.hr" site_id="7/mrezazg" xmltv_id="MrežaZG">MrežaZG</channel>
     <channel update="i" site="mojtv.hr" site_id="6/jabuka-tv" xmltv_id="Jabuka TV">Jabuka TV</channel>
     <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
