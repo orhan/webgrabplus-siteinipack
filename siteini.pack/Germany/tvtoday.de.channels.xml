@@ -37,13 +37,7 @@
     <channel update="i" site="tvtoday.de" site_id="33" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvtoday.de" site_id="34" xmltv_id="Sportdeutschland.TV">Sportdeutschland.TV</channel>
     <channel update="i" site="tvtoday.de" site_id="35" xmltv_id="DAZN">DAZN</channel>
-    <channel update="i" site="tvtoday.de" site_id="36" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
-    <channel update="i" site="tvtoday.de" site_id="37" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
-    <channel update="i" site="tvtoday.de" site_id="38" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
-    <channel update="i" site="tvtoday.de" site_id="39" xmltv_id="SKY Sport UHD">SKY Sport UHD</channel>
     <channel update="i" site="tvtoday.de" site_id="40" xmltv_id="EXTREME SPORTS">EXTREME SPORTS</channel>
-    <channel update="i" site="tvtoday.de" site_id="41" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
-    <channel update="i" site="tvtoday.de" site_id="42" xmltv_id="Bundesliga HD 1">Bundesliga HD 1</channel>
     <channel update="i" site="tvtoday.de" site_id="43" xmltv_id="sportdigital">sportdigital</channel>
     <channel update="i" site="tvtoday.de" site_id="44" xmltv_id="Auto Motor Sport Channel">Auto Motor Sport Channel</channel>
     <channel update="i" site="tvtoday.de" site_id="45" xmltv_id="eSport1">eSport1</channel>
