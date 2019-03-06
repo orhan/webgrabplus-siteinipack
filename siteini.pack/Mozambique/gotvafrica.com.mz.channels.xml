@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="gotvafrica.com.mz">
+  <channels>
+    <channel update="i" site="gotvafrica.com.mz" site_id="AFM" xmltv_id="Africa Magic Family">Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="IA9" xmltv_id="AfricaMagic Epic">AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="AFS" xmltv_id="Afro Music">Afro Music</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="ALJ" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="AHD" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="BW4" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="BE2" xmltv_id="BET">BET</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="CMW" xmltv_id="CMTV">CMTV</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="F32" xmltv_id="Discovery Family">Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="DPH" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="PPW" xmltv_id="DStv Pipoca">DStv Pipoca</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="E26" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="EM7" xmltv_id="Emmanuel TV">Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="EUW" xmltv_id="Euro News Português">Euro News Português</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="FLS" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="GLW" xmltv_id="GLOOM">GLOOM</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="456" xmltv_id="Gungu">Gungu</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="ISW" xmltv_id="Islam Channel">Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="IST" xmltv_id="iTV Networks">iTV Networks</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="JJM" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="301" xmltv_id="Miramar">Miramar</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="MSG" xmltv_id="M-Net Movies Zone">M-Net Movies Zone</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="CSN" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="FM7" xmltv_id="Mundo Fox">Mundo Fox</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="NGW" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="NKA" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="PAS" xmltv_id="Panda">Panda</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="PBW" xmltv_id="Panda Biggs">Panda Biggs</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="ROS" xmltv_id="ROK 2">ROK 2</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="RO7" xmltv_id="ROK 3">ROK 3</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="RAS" xmltv_id="RTP Africa">RTP Africa</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="SI7" xmltv_id="Star Life">Star Life</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="SM4" xmltv_id="STV">STV</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="0SB" xmltv_id="SuperSport Blitz">SuperSport Blitz</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="SMD" xmltv_id="SuperSport MáXimo 360">SuperSport MáXimo 360</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="SST" xmltv_id="SuperSport Select 1">SuperSport Select 1</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="DS3" xmltv_id="SuperSport Select 3">SuperSport Select 3</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="DS4" xmltv_id="SuperSport Select 4">SuperSport Select 4</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="DS5" xmltv_id="SuperSport Select 5">SuperSport Select 5</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="TP7" xmltv_id="Telemundo">Telemundo</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="TN7" xmltv_id="TLN">TLN</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="102" xmltv_id="TopTV">TopTV</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="TTW" xmltv_id="Trace Toca">Trace Toca</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="MZS" xmltv_id="TV Moçambique">TV Moçambique</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="789" xmltv_id="TV Mozambique 2">TV Mozambique 2</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="RNW" xmltv_id="TV Record News">TV Record News</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="ZW7" xmltv_id="Zee World">Zee World</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="BKS" xmltv_id="GO Channel">GO Channel</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="101" xmltv_id="i-TV">i-TV</channel>
+    <channel update="i" site="gotvafrica.com.mz" site_id="ITM" xmltv_id="i-TV">i-TV</channel>
+  </channels>
+</site>

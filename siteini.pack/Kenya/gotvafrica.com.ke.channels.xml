@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="gotvafrica.com.ke">
+  <channels>
+    <channel update="i" site="gotvafrica.com.ke" site_id="AMW" xmltv_id="Africa Magic Family">Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="A2W" xmltv_id="AfricaMagic Epic">AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="AFE" xmltv_id="Afro Music Pop">Afro Music Pop</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="ALW" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="B4U" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="BW4" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="BE7" xmltv_id="BET">BET</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="RT4" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="CTS" xmltv_id="Citizen TV">Citizen TV</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="CN4" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="HDF" xmltv_id="Discovery Family">Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="DJW" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="EEW" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="ET4" xmltv_id="e.TV Africa">e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="EM7" xmltv_id="Emmanuel TV">Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="EV7" xmltv_id="Eva Plus">Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="TBN" xmltv_id="FAITH">FAITH</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="FEW" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="FL7" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="INS" xmltv_id="iNooro TV">iNooro TV</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="ISW" xmltv_id="Islam Channel">Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="JJ7" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="K2W" xmltv_id="K24">K24</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="KA7" xmltv_id="Kameme">Kameme</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="KAW" xmltv_id="KASS TV">KASS TV</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="KBS" xmltv_id="KBCTV">KBCTV</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="KTS" xmltv_id="KTN">KTN</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="KT7" xmltv_id="KTN News">KTN News</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="HME" xmltv_id="Maisha Magic East">Maisha Magic East</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="MZ7" xmltv_id="M-Net Movies Zone">M-Net Movies Zone</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="MTW" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="NWW" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="NIW" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="NTS" xmltv_id="NTV">NTV</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="PM7" xmltv_id="Pearl Magic">Pearl Magic</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="ROS" xmltv_id="ROK 2">ROK 2</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="RO7" xmltv_id="ROK 3">ROK 3</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="SI7" xmltv_id="Star Life">Star Life</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="HBW" xmltv_id="SuperSport Blitz">SuperSport Blitz</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="SST" xmltv_id="SuperSport Select 1">SuperSport Select 1</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="SDT" xmltv_id="SuperSport Select 2">SuperSport Select 2</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="DS3" xmltv_id="SuperSport Select 3">SuperSport Select 3</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="DS4" xmltv_id="SuperSport Select 4">SuperSport Select 4</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="DS5" xmltv_id="SuperSport Select 5">SuperSport Select 5</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="TE7" xmltv_id="Telemundo">Telemundo</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="ZW7" xmltv_id="Zee World">Zee World</channel>
+    <channel update="i" site="gotvafrica.com.ke" site_id="AFS" xmltv_id="Afro Music">Afro Music</channel>
+  </channels>
+</site>
