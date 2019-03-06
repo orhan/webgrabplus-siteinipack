@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="horizon.tv">
+  <channels>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255275__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_One_HD.png" xmltv_id="RTE One HD">RTE One HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255272__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE2_HD.png" xmltv_id="RTE2 HD">RTE2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255359__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_One_HD.png" xmltv_id="Virgin Media One HD">Virgin Media One HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255278__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/TG4_HD.png" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_770396711194__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Two_HD.png" xmltv_id="Virgin Media Two HD">Virgin Media Two HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255257__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Three_HD.png" xmltv_id="Virgin Media Three HD">Virgin Media Three HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255209__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_One_plus1.png" xmltv_id="RTE One 1">RTE One 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255355__https://wp11-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC1_HD.png" xmltv_id="BBC1 HD">BBC1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255240__https://wp28-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_2.png" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255217__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_One_plus1.png" xmltv_id="Virgin Media One 1">Virgin Media One 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255279__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Channel_4.png" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255324__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/E4.png" xmltv_id="E4">E4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255264__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/E4plus1.png" xmltv_id="E41">E41</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255281__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_One.png" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255365__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Two.png" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255198__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_FOUR.png" xmltv_id="BBC FOUR">BBC FOUR</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255328__https://wp15-images-ie-dynamic.horizon.tv/ChannelLogos/02/More4.png" xmltv_id="More4">More4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255258__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/GOLD.png" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255370__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/TLC.png" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255298__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/Dave.png" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255306__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/Universal.png" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255285__https://wp25-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Witness.png" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255320__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Witness_plus1.png" xmltv_id="Sky Witness 1">Sky Witness 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255346__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/FOX_HD.png" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255310__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/Comedy.png" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255329__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Comedy_plus1.png" xmltv_id="Comedy 1">Comedy 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255214__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Syfy.png" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_847402023103__https://wp23-images-ie-dynamic.horizon.tv/ChannelLogos/02/CBS_Reality.png" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255268__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/ITV3.png" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255235__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/ITV4.png" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255331__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/Pick.png" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255322__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/Comedy_Extra.png" xmltv_id="Comedy Extra">Comedy Extra</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_847402023102__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/CBS_Justice.png" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255246__https://wp28-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_TWO_HD.png" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255239__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Arts.png" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255336__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Channel_4_HD.png" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255334__https://wp17-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_1_HD.png" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255347__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Witness_HD.png" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255244__https://wp17-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Arts_HD.png" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_847401510979__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Horror_Channel.png" xmltv_id="Horror Channel">Horror Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255321__https://wp28-images-ie-dynamic.horizon.tv/ChannelLogos/02/E.png" xmltv_id="E">E</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255290__https://wp16-images-ie-dynamic.horizon.tv/ChannelLogos/02/Alibi.png" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255273__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/More4plus1.png" xmltv_id="More41">More41</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255271__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/GOLD_plus1.png" xmltv_id="GOLD 1">GOLD 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255343__https://wp11-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_Quest.png" xmltv_id="Discovery Quest">Discovery Quest</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255327__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_Shed.png" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255362__https://wp15-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_Turbo.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255296__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/Challenge.png" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255382__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/Real_Lives.png" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_802543655182__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/Quest_Red.png" xmltv_id="Quest Red">Quest Red</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_831197734992__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Channel_4_plus1.png" xmltv_id="Channel 4 1">Channel 4 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_802543655186__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/E4_HD.png" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_847401510980__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/CBS_Drama.png" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255330__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/FOX_plus1.png" xmltv_id="FOX 1">FOX 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_802543655187__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/More4_HD.png" xmltv_id="More4 HD">More4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_802543655183__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/Universal_HD.png" xmltv_id="Universal HD">Universal HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255351__https://wp21-images-ie-dynamic.horizon.tv/ChannelLogos/02/Comedy_HD.png" xmltv_id="Comedy HD">Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_802543655184__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/SyFy_HD.png" xmltv_id="SyFy HD">SyFy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTE News Now">RTE News Now</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255237__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_News_24.png" xmltv_id="BBC News 24">BBC News 24</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255201__https://wp21-images-ie-dynamic.horizon.tv/ChannelLogos/02/Euronews.png" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255289__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/CNBC_Europe.png" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255283__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/CNN.png" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255288__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_World.png" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255385__https://wp17-images-ie-dynamic.horizon.tv/ChannelLogos/02/Oireachtas_TV.png" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255349__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery.png" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255326__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Disc_Channel_plus1.png" xmltv_id="Disc Channel 1">Disc Channel 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255307__https://wp21-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_Home_and_Health.png" xmltv_id="Home  Health">Home  Health</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255294__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_Science.png" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255295__https://wp5-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_History.png" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255291__https://wp11-images-ie-dynamic.horizon.tv/ChannelLogos/02/Animal_Planet.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255339__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/DMAX.png" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255292__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/National_Geographic.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255309__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nat_Geo_Wild.png" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255380__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/History_Channel.png" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255357__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/Lifetime.png" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255338__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/Discovery_HD.png" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255381__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/History_HD.png" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255345__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/National_Geographic_HD.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255344__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nat_Geo_Wild_HD.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255342__https://wp28-images-ie-dynamic.horizon.tv/ChannelLogos/02/Crime_and_Investigation_HD.png" xmltv_id="Crime  Investigation HD">Crime  Investigation HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255367__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/HISTORY2.png" xmltv_id="H 2">H 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255350__https://wp23-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News_HD.png" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255293__https://wp15-images-ie-dynamic.horizon.tv/ChannelLogos/02/Bloomberg.png" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255335__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/Russia_Today.png" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_770403367252__https://wp11-images-ie-dynamic.horizon.tv/ChannelLogos/02/Netflix_300.png" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255225__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Comedy.png" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255263__https://wp11-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Wonder_Woman.png" xmltv_id="Sky Action Men">Sky Action Men</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255254__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Family.png" xmltv_id="Sky Animation">Sky Animation</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255302__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Horror.png" xmltv_id="SkyFi">SkyFi</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255229__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Select.png" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255226__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Oscars.png" xmltv_id="Sky Greats">Sky Greats</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255220__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Drama.png" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255249__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Crime_and_Thriller.png" xmltv_id="Sky Crime and Thriller">Sky Crime and Thriller</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255232__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Hits.png" xmltv_id="Sky Hits">Sky Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255222__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Premiere.png" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255259__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Premiereplus1.png" xmltv_id="Sky Premiere 1">Sky Premiere 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255195__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/Film_Four.png" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255197__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/FILMFOUR_plus1.png" xmltv_id="FILMFOUR 1">FILMFOUR 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255219__https://wp25-images-ie-dynamic.horizon.tv/ChannelLogos/02/TCM.png" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255251__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/TCM_plus1.png" xmltv_id="TCM 1">TCM 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255243__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/True_Movies_1.png" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255227__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Comedy_HD.png" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255265__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Wonder_Woman_HD.png" xmltv_id="Sky Action Men HD">Sky Action Men HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255255__https://wp15-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Family_HD.png" xmltv_id="Sky Animation HD">Sky Animation HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255341__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Horror_HD.png" xmltv_id="SkyFi HD">SkyFi HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255252__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Disney_HD.png" xmltv_id="Sky Disney">Sky Disney</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255230__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Select_HD.png" xmltv_id="Sky Select HD">Sky Select HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255228__https://wp21-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Oscars_HD.png" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255221__https://wp17-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Drama_HD.png" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255248__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Thriller_HD.png" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255231__https://wp25-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Hits_HD.png" xmltv_id="Sky Hits HD">Sky Hits HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255223__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Premiere_HD.png" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_802543655185__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Film4_HD.png" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634279283__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_HD.png" xmltv_id="Virgin Media Sport HD">Virgin Media Sport HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255360__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Main_Event.png" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255371__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Cricket.png" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255233__https://wp15-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Action.png" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255304__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Golf.png" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255383__https://wp5-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Premier_League.png" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_800960551183__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Arena.png" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_800960039267__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Football.png" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255300__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_News.png" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255376__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Mix.png" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255260__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/Racing_TV.png" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255317__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Racing.png" xmltv_id="At the Races">At the Races</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255211__https://wp15-images-ie-dynamic.horizon.tv/ChannelLogos/02/Eurosport_HD.png" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255356__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/Eurosport_2_HD.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255299__https://wp25-images-ie-dynamic.horizon.tv/ChannelLogos/02/MUTV.png" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255366__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Main_Event_HD.png" xmltv_id="Sky Sports Main Event HD">Sky Sports Main Event HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255375__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Cricket_HD.png" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255234__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Action_HD.png" xmltv_id="Sky Sports Action HD">Sky Sports Action HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255352__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Golf_HD.png" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255384__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Premier_League_HD.png" xmltv_id="Sky Sports Premier League HD">Sky Sports Premier League HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_800960551182__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Arena_HD.png" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_800960039266__https://wp5-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Football_HD.png" xmltv_id="Sky Sports Football HD">Sky Sports Football HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255353__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_News_HD.png" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255378__https://wp23-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_Sports_Mix_HD.png" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634279284__https://wp16-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_Extra_1_HD.png" xmltv_id="VM Sport Extra 1 HD">VM Sport Extra 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634791256__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_Extra_2_HD.png" xmltv_id="VM Sport Extra 2 HD">VM Sport Extra 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634279285__https://wp17-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_Extra_3_HD.png" xmltv_id="VM Sport Extra 3 HD">VM Sport Extra 3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634791257__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_Extra_4_HD.png" xmltv_id="VM Sport Extra 4 HD">VM Sport Extra 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634279286__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_Extra_5_HD.png" xmltv_id="VM Sport Extra 5 HD">VM Sport Extra 5 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_850634791258__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Virgin_Media_Sport_Extra_6_HD.png" xmltv_id="VM Sport Extra 6 HD">VM Sport Extra 6 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255313__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/Fashion_TV.png" xmltv_id="Fashion  TV">Fashion  TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255253__https://wp21-images-ie-dynamic.horizon.tv/ChannelLogos/02/ID.png" xmltv_id="ID">ID</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255287__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/QVC.png" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255368__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/Food_Network.png" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_796986919238__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/Watch.png" xmltv_id="Watch">Watch</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255266__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTEjr.png" xmltv_id="RTEjr">RTEjr</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255224__https://wp22-images-ie-dynamic.horizon.tv/ChannelLogos/02/TRTE.png" xmltv_id="TRTE">TRTE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255348__https://wp11-images-ie-dynamic.horizon.tv/ChannelLogos/02/Cula4.png" xmltv_id="Cula4">Cula4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255373__https://wp28-images-ie-dynamic.horizon.tv/ChannelLogos/02/Boomerang.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255361__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nickelodeon.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255364__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nick_Replay.png" xmltv_id="Nick Replay">Nick Replay</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255318__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nick_Toons.png" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255305__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nick_Junior.png" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255316__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/CBBC.png" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255267__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Cbeebies.png" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255261__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/Disney_Channel.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255262__https://wp14-images-ie-dynamic.horizon.tv/ChannelLogos/02/Disney_Channel_HD.png" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255270__https://wp23-images-ie-dynamic.horizon.tv/ChannelLogos/02/Disney_Junior_New.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255333__https://wp23-images-ie-dynamic.horizon.tv/ChannelLogos/02/Cartoonito.png" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255325__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/Cartoon_Network.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255369__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/Nickelodeon_HD.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255358__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV.png" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255301__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV_Rocks.png" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255238__https://wp19-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV_Hits.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255303__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV_Base.png" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255311__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/Club_MTV.png" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255213__https://wp17-images-ie-dynamic.horizon.tv/ChannelLogos/02/VH1.png" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255372__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV_Classic.png" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255245__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV_MUSIC.png" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255242__https://wp26-images-ie-dynamic.horizon.tv/ChannelLogos/02/MTV_OMG.png" xmltv_id="MTV OMG">MTV OMG</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255236__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/The_Box.png" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255315__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/Box_Hits.png" xmltv_id="Box Hits">Box Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255218__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/Magic.png" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255314__https://wp12-images-ie-dynamic.horizon.tv/ChannelLogos/02/Box_Upfront.png" xmltv_id="Box Upfront">Box Upfront</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255312__https://wp25-images-ie-dynamic.horizon.tv/ChannelLogos/02/Kerrang.png" xmltv_id="Kerrang">Kerrang</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255210__https://wp8-images-ie-dynamic.horizon.tv/ChannelLogos/02/4Music.png" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255241__https://wp23-images-ie-dynamic.horizon.tv/ChannelLogos/02/KISS.png" xmltv_id="KISS">KISS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255284__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/Zee_TV.png" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255374__https://wp16-images-ie-dynamic.horizon.tv/ChannelLogos/02/EWTN.png" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255363__https://wp9-images-ie-dynamic.horizon.tv/ChannelLogos/02/The_God_Channel.png" xmltv_id="The God Channel">The God Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255286__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/TV5.png" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255200__https://wp6-images-ie-dynamic.horizon.tv/ChannelLogos/02/TVX.png" xmltv_id="TVX">TVX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255196__https://wp16-images-ie-dynamic.horizon.tv/ChannelLogos/02/The_Adult_Channel.png" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255199__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Babes_TV_U.png" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255215__https://wp27-images-ie-dynamic.horizon.tv/ChannelLogos/02/PPV_Channel.png" xmltv_id="PPV Channel">PPV Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_753737255216__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/PPV_Channel_2.png" xmltv_id="PPV Channel 2">PPV Channel 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="IE/eng_775357479278__https://wp18-images-ie-dynamic.horizon.tv/ChannelLogos/02/Netflix_999.png" xmltv_id="Netflix">Netflix</channel>
+  </channels>
+</site>
